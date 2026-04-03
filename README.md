@@ -5,7 +5,7 @@ Sales & Demand Forecasting for Businesses
 This project focuses on building a Sales & Demand Forecasting workflow for businesses.
 It includes data preprocessing steps such as data cleaning, missing value handling, and feature preparation to support machine learning models.
 
- Features / Steps Implemented
+ Features / Steps Implemented:
 Data Cleaning
 Handling Missing Values
 Exploratory Data Preparation
@@ -13,7 +13,7 @@ Feature Engineering
 Normalization & Scaling
 Preparing Data for ML Forecasting Models
 
- Tools & Technologies Used
+ Tools & Technologies Used:
 Python
 Jupyter Notebook
 Pandas
